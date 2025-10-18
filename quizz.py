@@ -24,8 +24,8 @@ from reportlab.lib.enums import TA_CENTER
 # =====================================================================================
 # --- 📝 CONFIGURATION & CONSTANTS ---
 # =====================================================================================
-APP_TITLE = "Manufacturing Technology Quiz System"
-COURSE_NAME = "Manufacturing Technology"
+APP_TITLE = "Department of Mechanical Quiz System"
+COURSE_NAME = "Unconventional Machining Process for Third year and 20MEP36 Design of Jigs, Fixture and Press Tools for final"
 QUESTIONS_PER_QUIZ = 20
 QUIZ_DURATION_MINUTES = 7
 QUIZ_DURATION_SECONDS = QUIZ_DURATION_MINUTES * 60
